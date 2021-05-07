@@ -50,9 +50,9 @@ public class AsterisksDisplay {
         }
 
 
-        for (i = 0; i <= 8; i++) //loops through rows
+        for (i = 0; i <= 8; i++)
         {
-            for (j = 0; j <= 34; j++) //loops through columns
+            for (j = 0; j <= 34; j++)
             {
                 if (a[i][j] == null)
                     a[i][j] = " ";
